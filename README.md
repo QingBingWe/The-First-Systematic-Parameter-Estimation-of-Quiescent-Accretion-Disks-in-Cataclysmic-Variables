@@ -1,4 +1,4 @@
-如果您需要论文使用的数据集，请联系邮箱：jiangbin@sdu.edu.cn, zyx@bao.ac.cn
+如果您需要论文使用的数据集，请联系邮箱：jiangbin@sdu.edu.cn
 ## 训练参数
 ### vae 
 * epochs=200
